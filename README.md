@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Shuchao Deng</h1>
+## Hi, 👋 <h1>Shuchao Deng</h1>
       <p><b>Master</b></p>
       <p><b>School of Computer Science, Sichuan University</b></p>
       <p><b>E-mail：1780802882@qq.com</b></p>
@@ -17,7 +17,7 @@
 </div>
 
 
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">Shuchao Deng (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
+## Hi, 👋  I'm < target="_blank"> Shuchao Deng </a>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> : )</em>
 
@@ -131,18 +131,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
 
 > By the way, are you also curious about how to generate the list?
 > I wrote a script to generate it automatically, fork it. You can see [Charmve/Charmve](https://github.com/Charmve/Charmve).
